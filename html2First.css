@@ -1,0 +1,74 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.boxA {
+	height: 100px;
+	width: 33%;
+	display: inline-block;
+}
+
+.x1 {
+	background-color: red;
+}
+
+.x2 {
+	background-color: blue;
+}
+
+.x3 {
+	background-color: black;
+}
+p {
+	margin-bottom: 20px;
+}
+
+.contain1 {
+	display: flex;
+}
+.boxB {
+	height: 200px;
+	flex: 1;
+	margin-bottom: 20px;
+}
+
+.y1 {
+	background-color: red;
+}
+
+.y2 {
+	background-color: blue;
+	flex: 2;
+}
+
+.contain2 {
+	display: flex;
+}
+
+.boxC {
+	height: 100px;
+	flex: 1;
+	margin-bottom: 20px;
+}
+
+.z1 {
+	background-color: blue;
+	flex: 4;
+}
+
+.z2 {
+	background-color: red;
+}
+
+
+.z3 {
+	background-color: black;
+	flex: 2;
+}
+
+
+.z4 {
+	background-color: red;
+}
+
+
